@@ -5,14 +5,14 @@
 * Note: Position blocks are also used to override the best move
 
 The game starts with a blank board allowing the Human to play first
-![initial board image](https://github.com/ronaldrespinoza/Connect-Four-GUI/img/board_1.png)
+![initial board image](https://github.com/ronaldrespinoza/Connect-Four-GUI/tree/master/img/board_1.png)
 
-![board in play image](https://github.com/ronaldrespinoza/Connect-Four-GUI/img/board_2.png)
+![board in play image](https://github.com/ronaldrespinoza/Connect-Four-GUI/tree/master/img/board_2.png)
 
 Checks are then ran after each piece placement to determine the winner:
 
 * Example where the Human Wins
-![board where human wins image](https://github.com/ronaldrespinoza/Connect-Four-GUI/img/board_4.png)
+![board where human wins image](https://github.com/ronaldrespinoza/Connect-Four-GUI/tree/master/img/board_4.png)
 
 * Example where the PC Wins
-![board where PC wins image](https://github.com/ronaldrespinoza/Connect-Four-GUI/img/board_5.png)
+![board where PC wins image](https://github.com/ronaldrespinoza/Connect-Four-GUI/tree/master/img/board_5.png)
