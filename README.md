@@ -15,4 +15,4 @@ Checks are then ran after each piece placement to determine the winner:
 ![board where human wins image](https://github.com/ronaldrespinoza/Connect-Four-GUI/blob/master/img/board_4.png)
 
 * Example where the PC Wins
-![board where PC wins image](https://github.com/ronaldrespinoza/Connect-Four-GUI/blob/master/img/board_5.png)
+![board where PC wins image](https://github.com/ronaldrespinoza/Connect-Four-GUI/blob/master/img/board_3.png)
